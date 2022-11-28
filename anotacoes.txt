@@ -1,0 +1,40 @@
+https://cursos.alura.com.br/course/typescript-evoluindo-javascript/task/91986
+
+node v10.21.0
+
+#npm install
+
+>dist  onde gera os "class", vai ser compartilhado com o navegador - TARGET dist  = distribuicao, compartilhamento
+
+#npm run server
+
+
+baixar a dependencia e a linguagem typescript
+#npm install typescript@4.2.2 --save-dev 
+#npm run compile 
+#npm run start  (apos configurar o packge.json e o tsconfig.json)
+
+
+https://cursos.alura.com.br/course/typescript-evoluindo-javascript/task/91992
+
+regular expressions
+https://regex101.com/
+https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/const
+https://cloud.google.com/bigquery/docs/reference/standard-sql/string_functions#regexp_instr
+https://en.wikipedia.org/wiki/Regular_expression
+
+https://medium.com/
+https://www.typescriptlang.org/docs/handbook/variable-declarations.html
+
+
+
+
+
+
+
+
+
+
+
+
+
